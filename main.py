@@ -24,12 +24,8 @@ prompt = PromptTemplate(
 )
 
 #Page title and header
-st.set_page_config(page_title="Re-write your text")
-st.header("Re-write your text")
+st.set_page_config(page_title="Convo like a pro")
 
-
-
-st.markdown("Re-write your text in different styles.")
 
 #Input OpenAI API Key
 
